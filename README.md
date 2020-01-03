@@ -1,4 +1,4 @@
-# project0.1
+# project0
 Projeto0 - cs50
 
 Criei um site responsivo utilizando (html/css/bootrasp)
